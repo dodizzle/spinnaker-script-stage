@@ -1,1 +1,2 @@
--c ls -l
+#!/bin/bash
+$*
